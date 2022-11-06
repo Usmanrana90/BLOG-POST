@@ -1,4 +1,4 @@
-# BLOG-POST
+# SImple -BLOG-POST
 Blog-Post Project using java ,Html, Css, Mysql Server
 Admin Can Login 
 Admin Can Post
